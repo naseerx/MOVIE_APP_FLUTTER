@@ -226,7 +226,7 @@ class _MovieDetealScreenState extends State<MovieDetealScreen> {
                                 ),
                                 icon: Icon(Icons.home),
                                 label: Text(
-                                  'H O M E',
+                                  'HOME',
                                   style:
                                       TextStyle(fontSize: 28, fontFamily: 'a'),
                                 ),
